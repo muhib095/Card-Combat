@@ -1,0 +1,38 @@
+New Game
+Round 1: Your card - 8
+User's choice - yes
+New card - 1
+Computer's card - 8
+Your points - 20
+
+Round 2: Your card - 6
+User's choice - no
+Computer's card - 6
+Your points - 20
+
+Round 3: Your card - 13
+User's choice - yes
+New card - 2
+Computer's card - 7
+Your points - 20
+
+Game Not Completed
+New Game
+Round 1: Your card - 13
+User's choice - no
+Computer's card - 4
+Your points - 29
+
+Round 2: Your card - 1
+User's choice - yes
+New card - 8
+Computer's card - 1
+Your points - 36
+
+Round 3: Your card - 5
+User's choice - yes
+New card - 5
+Computer's card - 6
+Your points - 36
+
+Game Completed

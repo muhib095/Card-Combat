@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------
+Point system:
+1. Users begin with 20 points 
+2. When a user wins a round the value of the computer's card is subtracted from user's card. 
+3. The leftover points are then added to the total points the user has.
+---------------------------------------------------------------------------------------------
