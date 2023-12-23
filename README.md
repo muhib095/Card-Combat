@@ -1,4 +1,4 @@
-# Card-Combat
+# Card-Combat V2
 
 My project involves creating a simple card game that involves the user going against the computer. 
 There are no ties so the user must input an odd number of rounds. The user and computer are dealt random cards that range from 1-13. 
